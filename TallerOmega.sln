@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerOmega", "TallerOmega\TallerOmega.csproj", "{66FBB9B5-CC5D-4B9B-B3BD-3DB613151369}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentacion", "1 - Presentacion", "{36A7F400-4B9F-4210-A44E-2F924988B585}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{E969CCF3-63C4-42A9-9495-C7389396B4DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Persistencia", "3 - Persistencia", "{C37E3C05-82CE-4510-A3CE-B5A09BB397C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TallerOmegaDom", "TallerOmegaDom\TallerOmegaDom.csproj", "{E516BC3D-FF0A-4284-A141-BEB3BC32518F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FBB9B5-CC5D-4B9B-B3BD-3DB613151369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FBB9B5-CC5D-4B9B-B3BD-3DB613151369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FBB9B5-CC5D-4B9B-B3BD-3DB613151369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FBB9B5-CC5D-4B9B-B3BD-3DB613151369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E516BC3D-FF0A-4284-A141-BEB3BC32518F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E516BC3D-FF0A-4284-A141-BEB3BC32518F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E516BC3D-FF0A-4284-A141-BEB3BC32518F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E516BC3D-FF0A-4284-A141-BEB3BC32518F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66FBB9B5-CC5D-4B9B-B3BD-3DB613151369} = {36A7F400-4B9F-4210-A44E-2F924988B585}
+		{E516BC3D-FF0A-4284-A141-BEB3BC32518F} = {E969CCF3-63C4-42A9-9495-C7389396B4DC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893372FF-F69F-4377-9251-07955255397F}
+	EndGlobalSection
+EndGlobal
